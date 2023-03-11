@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\bin\Debug\net6.0\Task054.exe
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\bin\Debug\net6.0\Task054.deps.json
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\bin\Debug\net6.0\Task054.runtimeconfig.json
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\bin\Debug\net6.0\Task054.dll
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\bin\Debug\net6.0\Task054.pdb
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.dll
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\refint\Task054.dll
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.pdb
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\Task054.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Обучение\GIT\Языки програмирования\C#\HW_Seminar008\Task054\obj\Debug\net6.0\ref\Task054.dll
